@@ -1,0 +1,32 @@
+_repo: Accounting-theory-and-practice-Volume-2-of-3-b-a-textbook-for-colleges-and-schools-of-busines__70556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kester, Roy B. (Roy Bernard)
+    alias: Kester, Roy Bernard
+    birthdate: 1882
+    deathdate: 1965
+    gutenberg_agent_id: '55732'
+    url: http://www.gutenberg.org/2009/agents/55732
+    wikipedia: https://en.wikipedia.org/wiki/Roy_B._Kester
+description: ''
+gutenberg_issued: '2023-04-15'
+identifiers:
+  gutenberg: '70556'
+language: en
+pgterms:marc905: 20160623120213kester
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bRonald Press, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Accounting'
+- !lcc 'HF'
+- GITenberg
+title: 'Accounting theory and practice, Volume 2 (of 3) : $b a textbook for colleges
+  and schools of business administration'
+url: http://www.gutenberg.org/ebooks/70556
